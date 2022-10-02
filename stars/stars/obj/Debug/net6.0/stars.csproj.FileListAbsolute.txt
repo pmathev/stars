@@ -1,0 +1,15 @@
+C:\Users\Mateusz\Desktop\stars\stars\bin\Debug\net6.0\stars.exe
+C:\Users\Mateusz\Desktop\stars\stars\bin\Debug\net6.0\stars.deps.json
+C:\Users\Mateusz\Desktop\stars\stars\bin\Debug\net6.0\stars.runtimeconfig.json
+C:\Users\Mateusz\Desktop\stars\stars\bin\Debug\net6.0\stars.dll
+C:\Users\Mateusz\Desktop\stars\stars\bin\Debug\net6.0\stars.pdb
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.dll
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\refint\stars.dll
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.pdb
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\stars.genruntimeconfig.cache
+C:\Users\Mateusz\Desktop\stars\stars\obj\Debug\net6.0\ref\stars.dll
