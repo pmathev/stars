@@ -1,5 +1,4 @@
-# STARS
-#  ***
+#  stars
 console application, in which you will create a box of stars
 
 !! new version 1.0 available !!
