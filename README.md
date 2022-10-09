@@ -1,2 +1,2 @@
 # stars
-app creates a box with stars *
+app creates a box of stars *
