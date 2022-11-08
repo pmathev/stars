@@ -59,7 +59,7 @@ public class Stars
 
 					for (int w = 0; w < y; w++)
 					{
-						for (int s = 2; s < x; s++)
+						for (int s = 0; s < x; s++)
 						{
 							Console.ForegroundColor = ConsoleColor.DarkCyan;
 							Console.Write("*");
@@ -94,7 +94,7 @@ public class Stars
 
 					for (int w = 0; w < y; w++)
 					{
-						for (int s = 2; s < x; s++)
+						for (int s = 0; s < x; s++)
 						{
 							Console.ForegroundColor = ConsoleColor.DarkCyan;
 							Console.Write("*");
@@ -130,7 +130,7 @@ public class Stars
 
 					for (int w = 0; w < y; w++)
 					{
-						for (int s = 2; s < x; s++)
+						for (int s = 0; s < x; s++)
 						{
 							Console.ForegroundColor = ConsoleColor.DarkCyan;
 							Console.Write("*");
