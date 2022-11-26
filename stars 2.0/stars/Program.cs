@@ -97,7 +97,7 @@ public class Stars
                             default:
                                 break;
                         }
-                    } while (Console.ReadKey().Key == ConsoleKey.Enter || choice == ConsoleKey.S);
+                    } while (Console.ReadKey().Key == ConsoleKey.Enter);
                 }
 
                 break;
@@ -160,7 +160,7 @@ public class Stars
                             default:
                                 break;
                         }
-                    } while (Console.ReadKey().Key == ConsoleKey.Enter || choice == ConsoleKey.S);
+                    } while (Console.ReadKey().Key == ConsoleKey.Enter);
                 }
 
                 break;
@@ -223,7 +223,7 @@ public class Stars
                             default:
                                 break;
                         }
-                    } while (Console.ReadKey().Key == ConsoleKey.Enter || choice == ConsoleKey.S);
+                    } while (Console.ReadKey().Key == ConsoleKey.Enter);
                 }
 
                 break;
